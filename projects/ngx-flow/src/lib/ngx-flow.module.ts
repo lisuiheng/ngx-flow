@@ -1,5 +1,5 @@
 import { NgModule } from '@angular/core';
-import Flow from '@flowjs/flow.js';
+import Flow from 'ka-flow.js';
 import { ButtonDirective } from './button.directive';
 import { DropDirective } from './drop.directive';
 import { FlowInjectionToken } from './flow-injection-token';

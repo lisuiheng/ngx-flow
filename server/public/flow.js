@@ -74,6 +74,9 @@
      * @type {Object}
      */
     this.defaults = {
+      // modify by lee start
+      justOneChunk: false,
+      // modify by lee end
       chunkSize: 1024 * 1024,
       forceChunkSize: false,
       simultaneousUploads: 3,

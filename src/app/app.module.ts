@@ -3,7 +3,7 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import { NgxFlowModule, FlowInjectionToken } from '@flowjs/ngx-flow';
-import Flow from '@flowjs/flow.js';
+import Flow from 'ka-flow.js';
 
 @NgModule({
   declarations: [AppComponent],

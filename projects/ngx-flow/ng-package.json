@@ -6,7 +6,7 @@
   "lib": {
     "entryFile": "src/public_api.ts",
     "umdModuleIds": {
-      "@flowjs/flow.js": "Flow"
+      "ka-flow.js": "Flow"
     }
   }
 }

@@ -8,7 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/flowjs/ngx-flow"
+    "url": "git@github.com:lisuiheng/ngx-flow.git"
   },
   "dependencies": {
     "@types/flowjs": "2.13.1"
